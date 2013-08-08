@@ -1,0 +1,6 @@
+target/
+deploy/
+gwt-unitCache/
+src/main/webapp/gwtsample/
+.gwt/
+war/
